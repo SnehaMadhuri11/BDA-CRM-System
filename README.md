@@ -42,18 +42,6 @@ Please use the pre-configured credentials below to review both sides of the modu
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard View | Leads Page | Reports & Analytics |
-| :--- | :--- | :--- |
-| ![Dashboard](https://via.placeholder.com/300x200?text=Dashboard) | ![Leads](https://via.placeholder.com/300x200?text=Leads) | ![Reports](https://via.placeholder.com/300x200?text=Reports) |
-
-| Dark Mode Toggle | Follow-ups | Team Management |
-| :--- | :--- | :--- |
-| ![Dark Mode](https://via.placeholder.com/300x200?text=Dark+Mode) | ![Follow-ups](https://via.placeholder.com/300x200?text=Follow-ups) | ![Team](https://via.placeholder.com/300x200?text=Team) |
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
