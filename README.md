@@ -188,4 +188,3 @@ The application will automatically launch on **`http://localhost:3000`**
 If you run into any issues booting or evaluating the CRM dashboard, please feel free to open a repository issue or reach out directly!
 
 ```
-
