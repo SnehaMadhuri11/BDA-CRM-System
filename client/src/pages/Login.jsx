@@ -81,7 +81,7 @@ const Login = () => {
             </Link>
           </p>
           <p className="text-xs text-gray-400 mt-4">
-            First user becomes Admin automatically
+            Full Admin testing credentials and role details are provided directly in the GitHub README.md file.
           </p>
         </div>
       </div>
